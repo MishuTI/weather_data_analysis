@@ -4,7 +4,7 @@ Comprehensive Exploratory Data Analysis on one year of hourly weather data from 
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This project performs in-depth **Exploratory Data Analysis (EDA)** on historical hourly weather data to uncover seasonal patterns, extreme weather events, and relationships between key meteorological variables.
 
@@ -12,7 +12,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** 3
 - **Pandas** – Data cleaning & analysis
@@ -21,7 +21,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - **Most common weather conditions**: Mainly Clear and Mostly Cloudy (over 47% of observations)
 - **Temperature range**: -23.3°C to +33.0°C
@@ -32,7 +32,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 
 ---
 
-## 📈 Visualizations Included
+##  Visualizations Included
 
 ### 1. Temperature Distribution with Extreme Thresholds
 - Days with temperature > 30°C and < -15°C clearly marked
@@ -51,7 +51,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 
 ---
 
-## 🔍 Advanced Analysis Performed
+##  Advanced Analysis Performed
 
 - **Extreme Temperature Days**
   - Hot days (> 30°C)
@@ -65,7 +65,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The 2012 weather data shows typical Canadian seasonal patterns:
 - Extreme cold in winter (down to -23.3°C)
@@ -77,7 +77,7 @@ The 2012 weather data shows typical Canadian seasonal patterns:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
