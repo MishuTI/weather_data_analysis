@@ -81,4 +81,4 @@ The 2012 weather data shows typical Canadian seasonal patterns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mishuTI/weather_data_analysis.git
+   git clone https://github.com/MishuTI/weather_data_analysis.git
