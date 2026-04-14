@@ -1,4 +1,4 @@
-# 🌤️ Weather Data Analysis (Canada - 2012)
+#  Weather Data Analysis (Canada - 2012)
 
 Comprehensive Exploratory Data Analysis on one year of hourly weather data from Canada (2012).
 
