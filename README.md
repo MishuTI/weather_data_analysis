@@ -35,6 +35,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 ##  Visualizations Included
 
 ### 1. Temperature Distribution with Extreme Thresholds
+![Alt text](https://github.com/MishuTI/sales_analysis-Dewali-/blob/main/sales_gender1.png)
 - Days with temperature > 30°C and < -15°C clearly marked
 
 ### 2. Monthly Clear Weather Hours
