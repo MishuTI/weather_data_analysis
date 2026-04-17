@@ -39,6 +39,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 - Days with temperature > 30°C and < -15°C clearly marked
 
 ### 2. Monthly Clear Weather Hours
+![Alt text](https://github.com/MishuTI/weather_data_analysis/blob/main/weather2.PNG)
 - Shows how many hours per month had "Clear" weather
 
 ### 3. Pressure Distribution by Weather Condition
