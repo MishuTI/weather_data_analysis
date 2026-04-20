@@ -43,6 +43,7 @@ This project performs in-depth **Exploratory Data Analysis (EDA)** on historical
 - Shows how many hours per month had "Clear" weather
 
 ### 3. Pressure Distribution by Weather Condition
+![Alt text](https://github.com/MishuTI/weather_data_analysis/blob/main/weather3.PNG)
 - Boxplot showing atmospheric pressure across different weather types
 
 ### 4. Visibility vs Wind Speed (Fog Formation Analysis)
